@@ -1,1 +1,1 @@
-web:web python backend.py runserver 122.172.116.20:8000
+web: python backend.py
