@@ -24,4 +24,4 @@ def branch_city_get(bank_name,city):
 	return json.dumps(branches)
 
 if __name__=='__main__':
-	app.run(debug=False,host='127.0.0.1',port=8000)
+	app.run(debug=False,host='afternoon-atoll-29683.herokuapp.com')
