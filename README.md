@@ -8,7 +8,8 @@ A REST service that can:
 1. Given a bank branch IFSC code, get branch details
 2. Given a bank name and city, gets details of all branches of the bank in the city
 
-The deployed version can be found at https://bank-query.herokuapp.com/
+The deployed version can be found at https://bank-query.herokuapp.com/. <br>
+For e.g GET details using IFSC then → https://bank-query.herokuapp.com/ifsc/SBIN0000001
 
 
 
