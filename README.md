@@ -9,7 +9,7 @@ A REST service that can:
 2. Given a bank name and city, gets details of all branches of the bank in the city
 
 The deployed version can be found at https://bank-query.herokuapp.com/. <br>
-For e.g GET details using IFSC then → https://bank-query.herokuapp.com/ifsc/SBIN0000001
+For e.g If the IFSC is SBIN0000001, then → https://bank-query.herokuapp.com/ifsc/SBIN0000001 to get details
 
 
 
