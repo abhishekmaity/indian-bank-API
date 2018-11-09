@@ -13,6 +13,8 @@ The deployed version can be found at https://bank-query.herokuapp.com/. <br>
 
 
 For e.g If the IFSC is SBIN0000001, then → https://bank-query.herokuapp.com/ifsc/SBIN0000001 to get details
+OR
+For e.g If the details of all DENA BANK in MUMBAI, then → https://bank-query.herokuapp.com//bank_name/DENA BANK/city/MUMBAI to get details
 
 
 
