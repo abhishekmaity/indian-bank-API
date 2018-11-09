@@ -11,6 +11,7 @@ A REST service that can:
 The deployed version can be found at https://bank-query.herokuapp.com/. <br>
 
 
+
 For e.g If the IFSC is SBIN0000001, then → https://bank-query.herokuapp.com/ifsc/SBIN0000001 to get details
 
 
