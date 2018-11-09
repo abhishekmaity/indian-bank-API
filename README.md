@@ -13,7 +13,7 @@ The deployed version can be found at https://bank-query.herokuapp.com/. <br>
 
 
 For e.g If the IFSC is SBIN0000001, then → https://bank-query.herokuapp.com/ifsc/SBIN0000001 to get details <br>
-<center>OR</center><br>
+OR<br>
 For e.g If the details of all DENA BANK in MYSORE, then → https://bank-query.herokuapp.com//bank_name/DENA%20BANK/city/MYSORE to get details
 
 
