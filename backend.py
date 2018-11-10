@@ -24,4 +24,4 @@ def branch_city_get(bank_name,city):
 	return json.dumps(branches)
 
 if __name__=='__main__':
-	app.run(debug=False,host='127.0.0.1')
+	app.run()
