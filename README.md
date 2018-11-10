@@ -1,4 +1,4 @@
-# Flask based backend assignment
+# Flask based Indian Bank API
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)](https://github.com/abhishekmaity/backend-assignment)
 [![PyPI - Python Version](https://img.shields.io/badge/build-flask%201.0.2-green.svg)](https://github.com/abhishekmaity/backend-assignment)
