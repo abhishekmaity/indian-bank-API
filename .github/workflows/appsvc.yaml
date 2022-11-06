@@ -1,4 +1,0 @@
-version: 1
-
-pre-build: | 
-git config --global url."https://{secret}@github".insteadOf https://github
